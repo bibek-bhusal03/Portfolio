@@ -15,7 +15,7 @@
 
 ### Built With
 
-- [[Next.js](https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
 - [Tailwindcss](https://tailwindcss.com/)
 
 ## Features
