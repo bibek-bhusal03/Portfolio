@@ -15,8 +15,8 @@
 
 ### Built With
 
-[![Next.js]](https://nextjs.org/)
-[![Tailwindcss]](https://tailwindcss.com/)
+- [[Next.js](https://nextjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## Features
 
