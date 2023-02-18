@@ -1,31 +1,35 @@
-Built With
-My personal portfolio which features some of my github projects as well as my resume and technical skills.
+# Portfolio
 
-This project was built using these technologies.
+## Table of Contents
 
-Next.js
-Tailwindcss
-TypeScript
-FramerMotion
-VsCode
-Vercel
-Features
-📖 Multi-Page Layout
+- [Overview](#overview)
+- [Built With](#built-with)
+- [Features](#features)
+- [Contact](#contact)
 
-🎨 Styled with Tailwindcss
+## Overview
 
-📱 Fully Responsive
+![chrome_RwZZxkues6](https://user-images.githubusercontent.com/120349016/219843252-8a29623c-3167-4a79-91a2-bf24e825b99b.png) -https://portfolio-kappa-three-88.vercel.app/
+-While building this portfolio I got to learn in-depth about Nextjs and tailwindcss.
 
-## Getting Started
+### Built With
 
-First, run the development server:
+-Next.js
+-Tailwindcss
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-It's user friendly, responsive
+-It's elegantly styled
+-Has buttery animation and beautiful icons integrated within
+
+## Contact
+
+[![linkedin](./public/linkedin-light.svg)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/#gh-light-mode-only)
+[![linkedin](./public/linkedin-dark.svg)](https://www.linkedin.com/in/bibek-bhusal-8a125625b/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/bibek-bhusal-8a125625b/
